@@ -1,0 +1,382 @@
+{
+ "background-base": {
+  "png": "ui/png/background-base.webp",
+  "png2x": null,
+  "w": 1080.0,
+  "h": 1920.0
+ },
+ "background-fs": {
+  "png": "ui/png/background-fs.webp",
+  "png2x": null,
+  "w": 1080.0,
+  "h": 1920.0
+ },
+ "background-hs": {
+  "png": "ui/png/background-hs.webp",
+  "png2x": null,
+  "w": 1080.0,
+  "h": 1920.0
+ },
+ "btn-auto_disabled": {
+  "png": "ui/png/btn-auto_disabled.webp",
+  "png2x": "ui/png/btn-auto_disabled@2x.webp",
+  "w": 170.0,
+  "h": 100.0
+ },
+ "btn-auto_off": {
+  "png": "ui/png/btn-auto_off.webp",
+  "png2x": "ui/png/btn-auto_off@2x.webp",
+  "w": 170.0,
+  "h": 100.0
+ },
+ "btn-auto_on": {
+  "png": "ui/png/btn-auto_on.webp",
+  "png2x": "ui/png/btn-auto_on@2x.webp",
+  "w": 170.0,
+  "h": 100.0
+ },
+ "btn-auto_pressed": {
+  "png": "ui/png/btn-auto_pressed.webp",
+  "png2x": "ui/png/btn-auto_pressed@2x.webp",
+  "w": 170.0,
+  "h": 100.0
+ },
+ "btn-info_disabled": {
+  "png": "ui/png/btn-info_disabled.webp",
+  "png2x": "ui/png/btn-info_disabled@2x.webp",
+  "w": 110.0,
+  "h": 110.0
+ },
+ "btn-info_normal": {
+  "png": "ui/png/btn-info_normal.webp",
+  "png2x": "ui/png/btn-info_normal@2x.webp",
+  "w": 110.0,
+  "h": 110.0
+ },
+ "btn-info_pressed": {
+  "png": "ui/png/btn-info_pressed.webp",
+  "png2x": "ui/png/btn-info_pressed@2x.webp",
+  "w": 110.0,
+  "h": 110.0
+ },
+ "btn-max_disabled": {
+  "png": "ui/png/btn-max_disabled.webp",
+  "png2x": "ui/png/btn-max_disabled@2x.webp",
+  "w": 170.0,
+  "h": 100.0
+ },
+ "btn-max_normal": {
+  "png": "ui/png/btn-max_normal.webp",
+  "png2x": "ui/png/btn-max_normal@2x.webp",
+  "w": 170.0,
+  "h": 100.0
+ },
+ "btn-max_pressed": {
+  "png": "ui/png/btn-max_pressed.webp",
+  "png2x": "ui/png/btn-max_pressed@2x.webp",
+  "w": 170.0,
+  "h": 100.0
+ },
+ "btn-menu_disabled": {
+  "png": "ui/png/btn-menu_disabled.webp",
+  "png2x": "ui/png/btn-menu_disabled@2x.webp",
+  "w": 110.0,
+  "h": 110.0
+ },
+ "btn-menu_normal": {
+  "png": "ui/png/btn-menu_normal.webp",
+  "png2x": "ui/png/btn-menu_normal@2x.webp",
+  "w": 110.0,
+  "h": 110.0
+ },
+ "btn-menu_pressed": {
+  "png": "ui/png/btn-menu_pressed.webp",
+  "png2x": "ui/png/btn-menu_pressed@2x.webp",
+  "w": 110.0,
+  "h": 110.0
+ },
+ "btn-minus_disabled": {
+  "png": "ui/png/btn-minus_disabled.webp",
+  "png2x": "ui/png/btn-minus_disabled@2x.webp",
+  "w": 110.0,
+  "h": 110.0
+ },
+ "btn-minus_normal": {
+  "png": "ui/png/btn-minus_normal.webp",
+  "png2x": "ui/png/btn-minus_normal@2x.webp",
+  "w": 110.0,
+  "h": 110.0
+ },
+ "btn-minus_pressed": {
+  "png": "ui/png/btn-minus_pressed.webp",
+  "png2x": "ui/png/btn-minus_pressed@2x.webp",
+  "w": 110.0,
+  "h": 110.0
+ },
+ "btn-plus_disabled": {
+  "png": "ui/png/btn-plus_disabled.webp",
+  "png2x": "ui/png/btn-plus_disabled@2x.webp",
+  "w": 110.0,
+  "h": 110.0
+ },
+ "btn-plus_normal": {
+  "png": "ui/png/btn-plus_normal.webp",
+  "png2x": "ui/png/btn-plus_normal@2x.webp",
+  "w": 110.0,
+  "h": 110.0
+ },
+ "btn-plus_pressed": {
+  "png": "ui/png/btn-plus_pressed.webp",
+  "png2x": "ui/png/btn-plus_pressed@2x.webp",
+  "w": 110.0,
+  "h": 110.0
+ },
+ "btn-sound_disabled": {
+  "png": "ui/png/btn-sound_disabled.webp",
+  "png2x": "ui/png/btn-sound_disabled@2x.webp",
+  "w": 110.0,
+  "h": 110.0
+ },
+ "btn-sound_off": {
+  "png": "ui/png/btn-sound_off.webp",
+  "png2x": "ui/png/btn-sound_off@2x.webp",
+  "w": 110.0,
+  "h": 110.0
+ },
+ "btn-sound_on": {
+  "png": "ui/png/btn-sound_on.webp",
+  "png2x": "ui/png/btn-sound_on@2x.webp",
+  "w": 110.0,
+  "h": 110.0
+ },
+ "btn-spin_disabled": {
+  "png": "ui/png/btn-spin_disabled.webp",
+  "png2x": "ui/png/btn-spin_disabled@2x.webp",
+  "w": 260.0,
+  "h": 260.0
+ },
+ "btn-spin_normal": {
+  "png": "ui/png/btn-spin_normal.webp",
+  "png2x": "ui/png/btn-spin_normal@2x.webp",
+  "w": 260.0,
+  "h": 260.0
+ },
+ "btn-spin_pressed": {
+  "png": "ui/png/btn-spin_pressed.webp",
+  "png2x": "ui/png/btn-spin_pressed@2x.webp",
+  "w": 260.0,
+  "h": 260.0
+ },
+ "btn-spin_stop": {
+  "png": "ui/png/btn-spin_stop.webp",
+  "png2x": "ui/png/btn-spin_stop@2x.webp",
+  "w": 260.0,
+  "h": 260.0
+ },
+ "btn-turbo_disabled": {
+  "png": "ui/png/btn-turbo_disabled.webp",
+  "png2x": "ui/png/btn-turbo_disabled@2x.webp",
+  "w": 170.0,
+  "h": 100.0
+ },
+ "btn-turbo_off": {
+  "png": "ui/png/btn-turbo_off.webp",
+  "png2x": "ui/png/btn-turbo_off@2x.webp",
+  "w": 170.0,
+  "h": 100.0
+ },
+ "btn-turbo_on": {
+  "png": "ui/png/btn-turbo_on.webp",
+  "png2x": "ui/png/btn-turbo_on@2x.webp",
+  "w": 170.0,
+  "h": 100.0
+ },
+ "btn-turbo_pressed": {
+  "png": "ui/png/btn-turbo_pressed.webp",
+  "png2x": "ui/png/btn-turbo_pressed@2x.webp",
+  "w": 170.0,
+  "h": 100.0
+ },
+ "counters": {
+  "png": "ui/png/counters.webp",
+  "png2x": "ui/png/counters@2x.webp",
+  "w": 1020.0,
+  "h": 640.0
+ },
+ "dots_0of3": {
+  "png": "ui/counters/png/dots_0of3.webp",
+  "png2x": "ui/counters/png/dots_0of3@2x.webp",
+  "w": 260.0,
+  "h": 100.0
+ },
+ "dots_1of3": {
+  "png": "ui/counters/png/dots_1of3.webp",
+  "png2x": "ui/counters/png/dots_1of3@2x.webp",
+  "w": 260.0,
+  "h": 100.0
+ },
+ "dots_2of3": {
+  "png": "ui/counters/png/dots_2of3.webp",
+  "png2x": "ui/counters/png/dots_2of3@2x.webp",
+  "w": 260.0,
+  "h": 100.0
+ },
+ "dots_3of3": {
+  "png": "ui/counters/png/dots_3of3.webp",
+  "png2x": "ui/counters/png/dots_3of3@2x.webp",
+  "w": 260.0,
+  "h": 100.0
+ },
+ "fs_remaining": {
+  "png": "ui/counters/png/fs_remaining.webp",
+  "png2x": "ui/counters/png/fs_remaining@2x.webp",
+  "w": 230.0,
+  "h": 120.0
+ },
+ "fs_total": {
+  "png": "ui/counters/png/fs_total.webp",
+  "png2x": "ui/counters/png/fs_total@2x.webp",
+  "w": 260.0,
+  "h": 120.0
+ },
+ "mult_x1": {
+  "png": "ui/counters/png/mult_x1.webp",
+  "png2x": "ui/counters/png/mult_x1@2x.webp",
+  "w": 130.0,
+  "h": 130.0
+ },
+ "mult_x2": {
+  "png": "ui/counters/png/mult_x2.webp",
+  "png2x": "ui/counters/png/mult_x2@2x.webp",
+  "w": 130.0,
+  "h": 130.0
+ },
+ "mult_x3": {
+  "png": "ui/counters/png/mult_x3.webp",
+  "png2x": "ui/counters/png/mult_x3@2x.webp",
+  "w": 130.0,
+  "h": 130.0
+ },
+ "mult_x5": {
+  "png": "ui/counters/png/mult_x5.webp",
+  "png2x": "ui/counters/png/mult_x5@2x.webp",
+  "w": 130.0,
+  "h": 130.0
+ },
+ "jackpot-bar-compact": {
+  "png": "ui/png/jackpot-bar-compact.webp",
+  "png2x": "ui/png/jackpot-bar-compact@2x.webp",
+  "w": 1020.0,
+  "h": 90.0
+ },
+ "jackpot-bar": {
+  "png": "ui/png/jackpot-bar.webp",
+  "png2x": "ui/png/jackpot-bar@2x.webp",
+  "w": 1020.0,
+  "h": 170.0
+ },
+ "logo-A": {
+  "png": "ui/png/logo-A.webp",
+  "png2x": "ui/png/logo-A@2x.webp",
+  "w": 800.0,
+  "h": 330.0,
+  "note": "玩法 A 专用:副标丝带「20 线 · Free Spins」"
+ },
+ "logo-B": {
+  "png": "ui/png/logo-B.webp",
+  "png2x": "ui/png/logo-B@2x.webp",
+  "w": 800.0,
+  "h": 330.0,
+  "note": "玩法 B 专用:副标丝带「金鲤满仓」+ 英文小字 Hold & Spin"
+ },
+ "panel-info": {
+  "png": "ui/png/panel-info.webp",
+  "png2x": "ui/png/panel-info@2x.webp",
+  "w": 300.0,
+  "h": 120.0,
+  "borders": {
+   "left": 40,
+   "top": 36,
+   "right": 40,
+   "bottom": 40
+  }
+ },
+ "panel-popup": {
+  "png": "ui/png/panel-popup.webp",
+  "png2x": "ui/png/panel-popup@2x.webp",
+  "w": 640.0,
+  "h": 760.0,
+  "borders": {
+   "left": 64,
+   "top": 64,
+   "right": 64,
+   "bottom": 70
+  }
+ },
+ "reel-bg": {
+  "png": "ui/png/reel-bg.webp",
+  "png2x": "ui/png/reel-bg@2x.webp",
+  "w": 1006.0,
+  "h": 620.0,
+  "placeAt": {
+   "x": -3,
+   "y": 0,
+   "note": "相对窗口左上角;1006 宽,左右各超出 3px 被金边遮住"
+  }
+ },
+ "reel-frame": {
+  "png": "ui/png/reel-frame.webp",
+  "png2x": "ui/png/reel-frame@2x.webp",
+  "w": 1020.0,
+  "h": 800.0,
+  "window": {
+   "x": 10,
+   "y": 90,
+   "w": 1000,
+   "h": 620
+  }
+ },
+ "win-bar": {
+  "png": "ui/png/win-bar.webp",
+  "png2x": "ui/png/win-bar@2x.webp",
+  "w": 900.0,
+  "h": 150.0,
+  "borders": {
+   "left": 170,
+   "top": 0,
+   "right": 170,
+   "bottom": 0,
+   "note": "仅水平三段拉伸"
+  }
+ },
+ "design-notes/btn-design-notes_normal": {
+  "png": "design-notes/btn-design-notes_normal.webp",
+  "png2x": "design-notes/btn-design-notes_normal@2x.webp",
+  "w": 210.0,
+  "h": 76.0
+ },
+ "design-notes/btn-design-notes_pressed": {
+  "png": "design-notes/btn-design-notes_pressed.webp",
+  "png2x": "design-notes/btn-design-notes_pressed@2x.webp",
+  "w": 210.0,
+  "h": 76.0
+ },
+ "design-notes/hint-bubble": {
+  "png": "design-notes/hint-bubble.webp",
+  "png2x": "design-notes/hint-bubble@2x.webp",
+  "w": 240.0,
+  "h": 100.0,
+  "placeAt": {
+   "note": "三角尖(气泡内 x=168,y=6)对准入口按钮中心 x=905、按钮底边下 4px:气泡左上角 (737,169)"
+  }
+ },
+ "design-notes/btn-design-notes": {
+  "note": "三态:_normal/_pressed/_disabled;放置 x=800..1010,y=97(左上角坐标),210×76",
+  "placeAt": {
+   "x": 800,
+   "y": 97,
+   "w": 210,
+   "h": 76
+  }
+ }
+}

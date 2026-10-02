@@ -1,0 +1,143 @@
+{
+ "meta": {
+  "game": "A",
+  "mode": "buy",
+  "seedPrefix": "final",
+  "shards": 8,
+  "seeds": [
+   "final-A-buy-1",
+   "final-A-buy-2",
+   "final-A-buy-3",
+   "final-A-buy-4",
+   "final-A-buy-5",
+   "final-A-buy-6",
+   "final-A-buy-7",
+   "final-A-buy-8"
+  ],
+  "spins": 20000000,
+  "batches": 200,
+  "batchSize": 100000,
+  "configVersion": "1.1-math-r1",
+  "bet": 100
+ },
+ "rtp": 0.9608287229166667,
+ "rtpSE_batch": 0.00018029124470484657,
+ "rtpCI95": [
+  0.9604753520770452,
+  0.9611820937562882
+ ],
+ "rtpSE_analytic": 0.00019559631241557638,
+ "rtpCI95_analytic": [
+  0.9604453541443321,
+  0.9612120916890012
+ ],
+ "costMult": 48,
+ "stdDevPerBet": 41.98719846811343,
+ "stdDevPerCost": 0.8747333014190297,
+ "volatilityIndex95": 1.7144772707812983,
+ "baseRtp": 0,
+ "featureRtp": 0.9608287229166667,
+ "hitRate": 0,
+ "zeroRate": 0.00003595,
+ "triggerCount": 20000000,
+ "triggerRate": 1,
+ "oneInTrigger": 1,
+ "maxWinMult": 947.1,
+ "cappedRounds": 0,
+ "cappedRate": 0,
+ "cappedOneIn": null,
+ "capLossRtp": 0,
+ "distribution": [
+  {
+   "label": "0",
+   "count": 719,
+   "freq": 0.00003595,
+   "rtpShare": 0
+  },
+  {
+   "label": "(0,1)x",
+   "count": 14496,
+   "freq": 0.0007248,
+   "rtpShare": 0.0000091659375
+  },
+  {
+   "label": "[1,5)x",
+   "count": 427491,
+   "freq": 0.02137455,
+   "rtpShare": 0.0015474905729166667
+  },
+  {
+   "label": "[5,20)x",
+   "count": 5021871,
+   "freq": 0.25109355,
+   "rtpShare": 0.06846072901041667
+  },
+  {
+   "label": "[20,100)x",
+   "count": 12804085,
+   "freq": 0.64020425,
+   "rtpShare": 0.6214588042708333
+  },
+  {
+   "label": "[100,1000]x",
+   "count": 1731338,
+   "freq": 0.0865669,
+   "rtpShare": 0.269352533125
+  },
+  {
+   "label": ">1000x",
+   "count": 0,
+   "freq": 0,
+   "rtpShare": 0
+  }
+ ],
+ "avgFeatureWinMult": 46.1197787,
+ "featureStdDev": 41.98719846811343,
+ "featureWinMax": 947.1,
+ "baseLineRtp": 0,
+ "baseScatterRtp": 0,
+ "fsLineRtp": 0.958750825,
+ "fsScatterRtp": 0.0020778979166666666,
+ "triggerBySCount": {
+  "3": 0,
+  "4": 0,
+  "5": 0
+ },
+ "fsAvgPlayedPerTrigger": 8.21471985,
+ "fsAvgAwardedPerTrigger": 8.21471985,
+ "fsRoundsWithRetrigger": 799960,
+ "fsRetriggerRateOfFs": 0.039998,
+ "retriggerEvents": 836191,
+ "fsReached60": 0,
+ "fsReached60RateOfFs": 0,
+ "fsReached60Rate": 0,
+ "fsTruncatedEvents": 0,
+ "fsMaxPlayed": 40,
+ "fsSpinLineHitRate": 0.7188429560382391,
+ "ladder": [
+  {
+   "c": 0,
+   "uses": 60571359,
+   "freq": 0.36867574370171613,
+   "lineRtp": 0.14176415489583333
+  },
+  {
+   "c": 1,
+   "uses": 39504047,
+   "freq": 0.2404467085995635,
+   "lineRtp": 0.18496138375
+  },
+  {
+   "c": 2,
+   "uses": 25493701,
+   "freq": 0.155170848583473,
+   "lineRtp": 0.17886570796875
+  },
+  {
+   "c": 3,
+   "uses": 38725290,
+   "freq": 0.23570669911524736,
+   "lineRtp": 0.45315957838541665
+  }
+ ]
+}

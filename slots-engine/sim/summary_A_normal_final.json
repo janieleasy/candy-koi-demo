@@ -1,0 +1,143 @@
+{
+ "meta": {
+  "game": "A",
+  "mode": "normal",
+  "seedPrefix": "final",
+  "shards": 8,
+  "seeds": [
+   "final-A-normal-1",
+   "final-A-normal-2",
+   "final-A-normal-3",
+   "final-A-normal-4",
+   "final-A-normal-5",
+   "final-A-normal-6",
+   "final-A-normal-7",
+   "final-A-normal-8"
+  ],
+  "spins": 200000000,
+  "batches": 200,
+  "batchSize": 1000000,
+  "configVersion": "1.1-math-r1",
+  "bet": 100
+ },
+ "rtp": 0.95962737125,
+ "rtpSE_batch": 0.0003879730396495407,
+ "rtpCI95": [
+  0.9588669440922869,
+  0.960387798407713
+ ],
+ "rtpSE_analytic": 0.00040190461806183047,
+ "rtpCI95_analytic": [
+  0.9588396381985987,
+  0.9604151043014012
+ ],
+ "costMult": 1,
+ "stdDevPerBet": 5.683789616434194,
+ "stdDevPerCost": 5.683789616434194,
+ "volatilityIndex95": 11.14022764821102,
+ "baseRtp": 0.6498006645,
+ "featureRtp": 0.30982670675,
+ "hitRate": 0.289954105,
+ "zeroRate": 0.710045895,
+ "triggerCount": 1304291,
+ "triggerRate": 0.006521455,
+ "oneInTrigger": 153.34001384660326,
+ "maxWinMult": 845.4,
+ "cappedRounds": 0,
+ "cappedRate": 0,
+ "cappedOneIn": null,
+ "capLossRtp": 0,
+ "distribution": [
+  {
+   "label": "0",
+   "count": 142009179,
+   "freq": 0.710045895,
+   "rtpShare": 0
+  },
+  {
+   "label": "(0,1)x",
+   "count": 23424015,
+   "freq": 0.117120075,
+   "rtpShare": 0.04621596275
+  },
+  {
+   "label": "[1,5)x",
+   "count": 26284707,
+   "freq": 0.131423535,
+   "rtpShare": 0.275594438
+  },
+  {
+   "label": "[5,20)x",
+   "count": 6955599,
+   "freq": 0.034777995,
+   "rtpShare": 0.288743777
+  },
+  {
+   "label": "[20,100)x",
+   "count": 1195081,
+   "freq": 0.005975405,
+   "rtpShare": 0.25068140825
+  },
+  {
+   "label": "[100,1000]x",
+   "count": 131419,
+   "freq": 0.000657095,
+   "rtpShare": 0.09839178525
+  },
+  {
+   "label": ">1000x",
+   "count": 0,
+   "freq": 0,
+   "rtpShare": 0
+  }
+ ],
+ "avgFeatureWinMult": 47.50883150309249,
+ "featureStdDev": 43.20109839590644,
+ "featureWinMax": 843.4,
+ "baseLineRtp": 0.6339936745,
+ "baseScatterRtp": 0.01580699,
+ "fsLineRtp": 0.30915890675,
+ "fsScatterRtp": 0.0006678,
+ "triggerBySCount": {
+  "3": 1241209,
+  "4": 61878,
+  "5": 1204
+ },
+ "fsAvgPlayedPerTrigger": 8.420699828489195,
+ "fsAvgAwardedPerTrigger": 8.420699828489195,
+ "fsRoundsWithRetrigger": 53395,
+ "fsRetriggerRateOfFs": 0.0409379501966969,
+ "retriggerEvents": 55832,
+ "fsReached60": 0,
+ "fsReached60RateOfFs": 0,
+ "fsReached60Rate": 0,
+ "fsTruncatedEvents": 0,
+ "fsMaxPlayed": 33,
+ "fsSpinLineHitRate": 0.7189358176964253,
+ "ladder": [
+  {
+   "c": 0,
+   "uses": 4024135,
+   "freq": 0.36639526950773116,
+   "lineRtp": 0.04520570425
+  },
+  {
+   "c": 1,
+   "uses": 2630245,
+   "freq": 0.23948235475359606,
+   "lineRtp": 0.0590660695
+  },
+  {
+   "c": 2,
+   "uses": 1701756,
+   "freq": 0.1549439440417378,
+   "lineRtp": 0.057300858
+  },
+  {
+   "c": 3,
+   "uses": 2626907,
+   "freq": 0.239178431696935,
+   "lineRtp": 0.147586275
+  }
+ ]
+}

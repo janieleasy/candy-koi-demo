@@ -1,0 +1,460 @@
+{
+  "version": 1,
+  "unit": "px@256 viewBox",
+  "symbols": [
+    {
+      "id": "H1",
+      "name": "H1_koi",
+      "file": "symbols/H1_koi.svg",
+      "png": "symbols/png/H1_koi.png",
+      "png2x": "symbols/png/H1_koi@2x.png",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "centerPx": {
+        "x": 128,
+        "y": 128
+      },
+      "visualCenter": {
+        "x": 128,
+        "y": 118
+      },
+      "desc": "H1 金锦鲤"
+    },
+    {
+      "id": "H2",
+      "name": "H2_lantern",
+      "file": "symbols/H2_lantern.svg",
+      "png": "symbols/png/H2_lantern.png",
+      "png2x": "symbols/png/H2_lantern@2x.png",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "centerPx": {
+        "x": 128,
+        "y": 128
+      },
+      "visualCenter": {
+        "x": 128,
+        "y": 118
+      },
+      "desc": "H2 灯笼"
+    },
+    {
+      "id": "H3",
+      "name": "H3_lotus",
+      "file": "symbols/H3_lotus.svg",
+      "png": "symbols/png/H3_lotus.png",
+      "png2x": "symbols/png/H3_lotus@2x.png",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "centerPx": {
+        "x": 128,
+        "y": 128
+      },
+      "visualCenter": {
+        "x": 128,
+        "y": 118
+      },
+      "desc": "H3 莲花"
+    },
+    {
+      "id": "H4",
+      "name": "H4_ingot",
+      "file": "symbols/H4_ingot.svg",
+      "png": "symbols/png/H4_ingot.png",
+      "png2x": "symbols/png/H4_ingot@2x.png",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "centerPx": {
+        "x": 128,
+        "y": 128
+      },
+      "visualCenter": {
+        "x": 128,
+        "y": 118
+      },
+      "desc": "H4 元宝"
+    },
+    {
+      "id": "L1",
+      "name": "L1_A",
+      "file": "symbols/L1_A.svg",
+      "png": "symbols/png/L1_A.png",
+      "png2x": "symbols/png/L1_A@2x.png",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "centerPx": {
+        "x": 128,
+        "y": 128
+      },
+      "visualCenter": {
+        "x": 128,
+        "y": 118
+      }
+    },
+    {
+      "id": "L2",
+      "name": "L2_K",
+      "file": "symbols/L2_K.svg",
+      "png": "symbols/png/L2_K.png",
+      "png2x": "symbols/png/L2_K@2x.png",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "centerPx": {
+        "x": 128,
+        "y": 128
+      },
+      "visualCenter": {
+        "x": 128,
+        "y": 118
+      }
+    },
+    {
+      "id": "L3",
+      "name": "L3_Q",
+      "file": "symbols/L3_Q.svg",
+      "png": "symbols/png/L3_Q.png",
+      "png2x": "symbols/png/L3_Q@2x.png",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "centerPx": {
+        "x": 128,
+        "y": 128
+      },
+      "visualCenter": {
+        "x": 128,
+        "y": 118
+      }
+    },
+    {
+      "id": "L4",
+      "name": "L4_J",
+      "file": "symbols/L4_J.svg",
+      "png": "symbols/png/L4_J.png",
+      "png2x": "symbols/png/L4_J@2x.png",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "centerPx": {
+        "x": 128,
+        "y": 128
+      },
+      "visualCenter": {
+        "x": 128,
+        "y": 118
+      }
+    },
+    {
+      "id": "L5",
+      "name": "L5_10",
+      "file": "symbols/L5_10.svg",
+      "png": "symbols/png/L5_10.png",
+      "png2x": "symbols/png/L5_10@2x.png",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "centerPx": {
+        "x": 128,
+        "y": 128
+      },
+      "visualCenter": {
+        "x": 128,
+        "y": 118
+      }
+    },
+    {
+      "id": "W",
+      "name": "W_pearl",
+      "file": "symbols/W_pearl.svg",
+      "png": "symbols/png/W_pearl.png",
+      "png2x": "symbols/png/W_pearl@2x.png",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "centerPx": {
+        "x": 128,
+        "y": 128
+      },
+      "visualCenter": {
+        "x": 128,
+        "y": 118
+      },
+      "desc": "W 彩虹珍珠 Wild"
+    },
+    {
+      "id": "S",
+      "name": "S_gate",
+      "file": "symbols/S_gate.svg",
+      "png": "symbols/png/S_gate.png",
+      "png2x": "symbols/png/S_gate@2x.png",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "centerPx": {
+        "x": 128,
+        "y": 128
+      },
+      "visualCenter": {
+        "x": 128,
+        "y": 118
+      },
+      "desc": "S 糖果门 Candy Gate (Scatter):圆弧顶糖果拱门,门内发光池塘与星光,SCATTER 丝带"
+    },
+    {
+      "id": "C_coin_base",
+      "name": "C_coin_base",
+      "file": "symbols/C_coin_base.svg",
+      "png": "symbols/png/C_coin_base.png",
+      "png2x": "symbols/png/C_coin_base@2x.png",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "centerPx": {
+        "x": 128,
+        "y": 128
+      },
+      "visualCenter": {
+        "x": 128,
+        "y": 118
+      },
+      "valueSlot": {
+        "cx": 128,
+        "cy": 114,
+        "r": 46,
+        "note": "数值槽圆心/半径(256 坐标系);数字由代码叠加"
+      }
+    },
+    {
+      "id": "C_coin_mult_low",
+      "name": "C_coin_mult_low",
+      "file": "symbols/C_coin_mult_low.svg",
+      "png": "symbols/png/C_coin_mult_low.png",
+      "png2x": "symbols/png/C_coin_mult_low@2x.png",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "centerPx": {
+        "x": 128,
+        "y": 128
+      },
+      "visualCenter": {
+        "x": 128,
+        "y": 118
+      },
+      "valueSlot": {
+        "cx": 128,
+        "cy": 114,
+        "r": 46,
+        "note": "数值槽圆心/半径(256 坐标系);数字由代码叠加"
+      }
+    },
+    {
+      "id": "C_coin_mult_mid",
+      "name": "C_coin_mult_mid",
+      "file": "symbols/C_coin_mult_mid.svg",
+      "png": "symbols/png/C_coin_mult_mid.png",
+      "png2x": "symbols/png/C_coin_mult_mid@2x.png",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "centerPx": {
+        "x": 128,
+        "y": 128
+      },
+      "visualCenter": {
+        "x": 128,
+        "y": 118
+      },
+      "valueSlot": {
+        "cx": 128,
+        "cy": 114,
+        "r": 46,
+        "note": "数值槽圆心/半径(256 坐标系);数字由代码叠加"
+      }
+    },
+    {
+      "id": "C_coin_mult_high",
+      "name": "C_coin_mult_high",
+      "file": "symbols/C_coin_mult_high.svg",
+      "png": "symbols/png/C_coin_mult_high.png",
+      "png2x": "symbols/png/C_coin_mult_high@2x.png",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "centerPx": {
+        "x": 128,
+        "y": 128
+      },
+      "visualCenter": {
+        "x": 128,
+        "y": 118
+      },
+      "valueSlot": {
+        "cx": 128,
+        "cy": 114,
+        "r": 46,
+        "note": "数值槽圆心/半径(256 坐标系);数字由代码叠加"
+      }
+    },
+    {
+      "id": "C_coin_jp_mini",
+      "name": "C_coin_jp_mini",
+      "file": "symbols/C_coin_jp_mini.svg",
+      "png": "symbols/png/C_coin_jp_mini.png",
+      "png2x": "symbols/png/C_coin_jp_mini@2x.png",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "centerPx": {
+        "x": 128,
+        "y": 128
+      },
+      "visualCenter": {
+        "x": 128,
+        "y": 118
+      },
+      "valueSlot": {
+        "cx": 128,
+        "cy": 114,
+        "r": 46,
+        "note": "数值槽圆心/半径(256 坐标系);数字由代码叠加"
+      }
+    },
+    {
+      "id": "C_coin_jp_minor",
+      "name": "C_coin_jp_minor",
+      "file": "symbols/C_coin_jp_minor.svg",
+      "png": "symbols/png/C_coin_jp_minor.png",
+      "png2x": "symbols/png/C_coin_jp_minor@2x.png",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "centerPx": {
+        "x": 128,
+        "y": 128
+      },
+      "visualCenter": {
+        "x": 128,
+        "y": 118
+      },
+      "valueSlot": {
+        "cx": 128,
+        "cy": 114,
+        "r": 46,
+        "note": "数值槽圆心/半径(256 坐标系);数字由代码叠加"
+      }
+    },
+    {
+      "id": "C_coin_jp_major",
+      "name": "C_coin_jp_major",
+      "file": "symbols/C_coin_jp_major.svg",
+      "png": "symbols/png/C_coin_jp_major.png",
+      "png2x": "symbols/png/C_coin_jp_major@2x.png",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "centerPx": {
+        "x": 128,
+        "y": 128
+      },
+      "visualCenter": {
+        "x": 128,
+        "y": 118
+      },
+      "valueSlot": {
+        "cx": 128,
+        "cy": 114,
+        "r": 46,
+        "note": "数值槽圆心/半径(256 坐标系);数字由代码叠加"
+      }
+    },
+    {
+      "id": "C_coin_jp_grand",
+      "name": "C_coin_jp_grand",
+      "file": "symbols/C_coin_jp_grand.svg",
+      "png": "symbols/png/C_coin_jp_grand.png",
+      "png2x": "symbols/png/C_coin_jp_grand@2x.png",
+      "width": 256,
+      "height": 256,
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "centerPx": {
+        "x": 128,
+        "y": 128
+      },
+      "visualCenter": {
+        "x": 128,
+        "y": 118
+      },
+      "valueSlot": {
+        "cx": 128,
+        "cy": 114,
+        "r": 46,
+        "note": "数值槽圆心/半径(256 坐标系);数字由代码叠加"
+      }
+    }
+  ],
+  "notes": "锚点 anchor 为 0.5/0.5 (Pixi Sprite.anchor.set(0.5));符号在 190 格内按 165/256≈0.645 缩放显示;阴影椭圆位于 y≈232。"
+}

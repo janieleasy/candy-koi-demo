@@ -1,0 +1,72 @@
+{
+  "version": "1.0",
+  "source": [
+    "RTP_report_A.md",
+    "RTP_report_B.md",
+    "PAYTABLE_CHANGES.md"
+  ],
+  "games": {
+    "A": {
+      "title": "糖果锦鲤池",
+      "panelTitle": "设计说明",
+      "points": [
+        {
+          "id": "positioning",
+          "heading": "产品定位",
+          "text": "5x3、20 线的经典结构,规则一眼看懂;特色玩法是 Free Spins + 倍数阶梯 x1→x2→x3→x5,没有连消,只做一个能感知的爽点。"
+        },
+        {
+          "id": "numbers",
+          "heading": "数值结果",
+          "text": "总 RTP 95.963%(目标 96%),基础 64.98% + Free Spins 30.98%;约 1/153 局触发糖果门 Free Spins。2 亿局模拟 + 精确解析双重验证。"
+        },
+        {
+          "id": "buy-price",
+          "heading": "购买价是算出来的",
+          "text": "建议价 75x 的购买 RTP 只有约 61.5%,于是按“购买 RTP = 正常 RTP”反解为 48x,最终购买 RTP 96.083%,与正常游玩仅差 0.12 个百分点。"
+        },
+        {
+          "id": "compliance",
+          "heading": "合规意识",
+          "text": "购买功能在部分真钱市场可能不被允许,演示版开启并强制标注,真钱构建默认关闭;演示 RNG 不能直接用于真钱,需经认证 RNG。"
+        },
+        {
+          "id": "cap",
+          "heading": "单局封顶",
+          "text": "最高赢取 5000x 总投注,Free Spins 最多 60 次——为真钱市场的最大赢额审核预留明确规则。"
+        }
+      ]
+    },
+    "B": {
+      "title": "金鲤满仓",
+      "panelTitle": "设计说明",
+      "points": [
+        {
+          "id": "positioning",
+          "heading": "产品定位",
+          "text": "Hold & Spin 锁币玩法,基础游戏无 Wild、无糖果门;“有新币就把剩余次数重置为 3”的节奏制造持续紧张感。高波动,约 1/128 局触发。"
+        },
+        {
+          "id": "numbers",
+          "heading": "数值结果",
+          "text": "总 RTP 96.023%(目标 96%),基础线赢 32.98% + Hold & Spin 63.05%;4 亿局模拟 + 马尔可夫链解析值交叉检验。"
+        },
+        {
+          "id": "jackpot",
+          "heading": "四层 Jackpot 全是固定倍数",
+          "text": "Mini 10x / Minor 25x / Major 100x / Grand 1000x,含满屏 Grand 合计贡献 5.52% RTP,不是累进奖池,无需后端累积,真钱和演示都能直接用。"
+        },
+        {
+          "id": "buy-price",
+          "heading": "购买价反向校准",
+          "text": "建议价 60x 的购买 RTP 约 136%(玩家稳赚),按等 RTP 反解为 85x,最终购买 RTP 96.017%,与正常游玩相差 -0.007 个百分点。"
+        },
+        {
+          "id": "compliance",
+          "heading": "合规意识",
+          "text": "购买功能可能不被真钱市场允许,演示版标注、真钱默认关闭;演示 RNG 需换成经认证 RNG;单局封顶 10000x 总投注。"
+        }
+      ]
+    }
+  }
+}

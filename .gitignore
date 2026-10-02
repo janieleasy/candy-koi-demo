@@ -1,0 +1,26 @@
+# dependencies / build output
+node_modules/
+dist/
+.pnpm-store/
+
+# logs & temp
+*.log
+npm-debug.log*
+pnpm-debug.log*
+*.tmp
+.cache/
+.vite/
+coverage/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# env
+.env
+.env.*
+
+# e2e/测试脚本运行时会往 slots-app/screenshots/ 写图,默认不提交(精选截图在 docs/screenshots/)
+slots-app/screenshots/

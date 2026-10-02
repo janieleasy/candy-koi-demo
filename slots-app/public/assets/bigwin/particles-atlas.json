@@ -1,0 +1,392 @@
+{
+ "frames": {
+  "glow": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 128,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 128
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 128
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "uv": {
+    "u0": 0.003906,
+    "v0_top": 0.003906,
+    "u1": 0.253906,
+    "v1_top": 0.253906
+   },
+   "blend": "additive"
+  },
+  "mini-koi-gold": {
+   "frame": {
+    "x": 132,
+    "y": 2,
+    "w": 128,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 64
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "uv": {
+    "u0": 0.257812,
+    "v0_top": 0.003906,
+    "u1": 0.507812,
+    "v1_top": 0.128906
+   },
+   "blend": "normal"
+  },
+  "mini-koi-pink": {
+   "frame": {
+    "x": 262,
+    "y": 2,
+    "w": 128,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 64
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "uv": {
+    "u0": 0.511719,
+    "v0_top": 0.003906,
+    "u1": 0.761719,
+    "v1_top": 0.128906
+   },
+   "blend": "normal"
+  },
+  "mini-koi-purple": {
+   "frame": {
+    "x": 2,
+    "y": 132,
+    "w": 128,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 64
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "uv": {
+    "u0": 0.003906,
+    "v0_top": 0.257812,
+    "u1": 0.253906,
+    "v1_top": 0.382812
+   },
+   "blend": "normal"
+  },
+  "crown": {
+   "frame": {
+    "x": 132,
+    "y": 132,
+    "w": 128,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 96
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "uv": {
+    "u0": 0.257812,
+    "v0_top": 0.257812,
+    "u1": 0.507812,
+    "v1_top": 0.445312
+   },
+   "blend": "normal"
+  },
+  "coin": {
+   "frame": {
+    "x": 262,
+    "y": 132,
+    "w": 64,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "uv": {
+    "u0": 0.511719,
+    "v0_top": 0.257812,
+    "u1": 0.636719,
+    "v1_top": 0.382812
+   },
+   "blend": "normal"
+  },
+  "candy-star": {
+   "frame": {
+    "x": 328,
+    "y": 132,
+    "w": 64,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "uv": {
+    "u0": 0.640625,
+    "v0_top": 0.257812,
+    "u1": 0.765625,
+    "v1_top": 0.382812
+   },
+   "blend": "multiply"
+  },
+  "sparkle": {
+   "frame": {
+    "x": 394,
+    "y": 132,
+    "w": 64,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "uv": {
+    "u0": 0.769531,
+    "v0_top": 0.257812,
+    "u1": 0.894531,
+    "v1_top": 0.382812
+   },
+   "blend": "additive"
+  },
+  "bubble": {
+   "frame": {
+    "x": 2,
+    "y": 230,
+    "w": 64,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "uv": {
+    "u0": 0.003906,
+    "v0_top": 0.449219,
+    "u1": 0.128906,
+    "v1_top": 0.574219
+   },
+   "blend": "normal/additive"
+  },
+  "petal": {
+   "frame": {
+    "x": 68,
+    "y": 230,
+    "w": 48,
+    "h": 48
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 48
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 48
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "uv": {
+    "u0": 0.132812,
+    "v0_top": 0.449219,
+    "u1": 0.226562,
+    "v1_top": 0.542969
+   },
+   "blend": "optional"
+  },
+  "ribbon-pink": {
+   "frame": {
+    "x": 118,
+    "y": 230,
+    "w": 32,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 64
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "uv": {
+    "u0": 0.230469,
+    "v0_top": 0.449219,
+    "u1": 0.292969,
+    "v1_top": 0.574219
+   },
+   "blend": "normal"
+  },
+  "ribbon-sky": {
+   "frame": {
+    "x": 152,
+    "y": 230,
+    "w": 32,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 64
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "uv": {
+    "u0": 0.296875,
+    "v0_top": 0.449219,
+    "u1": 0.359375,
+    "v1_top": 0.574219
+   },
+   "blend": "normal"
+  },
+  "ribbon-gold": {
+   "frame": {
+    "x": 186,
+    "y": 230,
+    "w": 32,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 64
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 64
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "uv": {
+    "u0": 0.363281,
+    "v0_top": 0.449219,
+    "u1": 0.425781,
+    "v1_top": 0.574219
+   },
+   "blend": "normal"
+  }
+ },
+ "meta": {
+  "app": "candy-koi-pond/tools/bigwin_export.py",
+  "image": "particles-atlas.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 512,
+   "h": 512
+  },
+  "scale": "1",
+  "note": "uv 为图像坐标系(原点左上,v 向下);three.js 默认 flipY=true 时 v_three = 1 - v1_top .. 1 - v0_top。ray.png / noise-256.png / ramp-*.png 为独立文件,不在合图内。"
+ }
+}

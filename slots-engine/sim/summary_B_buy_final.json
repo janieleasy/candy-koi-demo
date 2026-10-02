@@ -1,0 +1,168 @@
+{
+ "meta": {
+  "game": "B",
+  "mode": "buy",
+  "seedPrefix": "final",
+  "shards": 8,
+  "seeds": [
+   "final-B-buy-1",
+   "final-B-buy-2",
+   "final-B-buy-3",
+   "final-B-buy-4",
+   "final-B-buy-5",
+   "final-B-buy-6",
+   "final-B-buy-7",
+   "final-B-buy-8"
+  ],
+  "spins": 40000000,
+  "batches": 200,
+  "batchSize": 200000,
+  "configVersion": "1.1-math-r1",
+  "bet": 100
+ },
+ "rtp": 0.9601653314705882,
+ "rtpSE_batch": 0.00015231616271450455,
+ "rtpCI95": [
+  0.9598667917916678,
+  0.9604638711495087
+ ],
+ "rtpSE_analytic": 0.00014299540846033474,
+ "rtpCI95_analytic": [
+  0.959885060470006,
+  0.9604456024711705
+ ],
+ "costMult": 85,
+ "stdDevPerBet": 76.87250156573073,
+ "stdDevPerCost": 0.904382371361538,
+ "volatilityIndex95": 1.7725894478686144,
+ "baseRtp": 0,
+ "featureRtp": 0.9601653314705882,
+ "hitRate": 0,
+ "zeroRate": 0,
+ "triggerCount": 40000000,
+ "triggerRate": 1,
+ "oneInTrigger": 1,
+ "maxWinMult": 2232,
+ "cappedRounds": 0,
+ "cappedRate": 0,
+ "cappedOneIn": null,
+ "capLossRtp": 0,
+ "distribution": [
+  {
+   "label": "0",
+   "count": 0,
+   "freq": 0,
+   "rtpShare": 0
+  },
+  {
+   "label": "(0,1)x",
+   "count": 0,
+   "freq": 0,
+   "rtpShare": 0
+  },
+  {
+   "label": "[1,5)x",
+   "count": 0,
+   "freq": 0,
+   "rtpShare": 0
+  },
+  {
+   "label": "[5,20)x",
+   "count": 353930,
+   "freq": 0.00884825,
+   "rtpShare": 0.00169064
+  },
+  {
+   "label": "[20,100)x",
+   "count": 29864545,
+   "freq": 0.746613625,
+   "rtpShare": 0.5369327764705882
+  },
+  {
+   "label": "[100,1000]x",
+   "count": 9605688,
+   "freq": 0.2401422,
+   "rtpShare": 0.36494297470588233
+  },
+  {
+   "label": ">1000x",
+   "count": 175837,
+   "freq": 0.004395925,
+   "rtpShare": 0.05659894029411765
+  }
+ ],
+ "avgFeatureWinMult": 81.614053175,
+ "featureStdDev": 76.87250156573073,
+ "featureWinMax": 2232,
+ "baseLineRtp": 0,
+ "hsRtp": 0.9601653314705882,
+ "hsCoinRtp": 0.8749401314705882,
+ "jackpotCoinRtp": {
+  "Mini": 0.008697758823529411,
+  "Minor": 0.010143558823529412,
+  "Major": 0.01453035294117647,
+  "Grand": 0.028937058823529413
+ },
+ "jackpotCoinRtpTotal": 0.062308729411764706,
+ "fullScreenRtp": 0.022916470588235295,
+ "jackpotRtpTotalInclFullScreen": 0.0852252,
+ "jackpotCoinCount": {
+  "Mini": 2957238,
+  "Minor": 1379524,
+  "Major": 494032,
+  "Grand": 98386
+ },
+ "jackpotRoundCount": {
+  "Mini": 2862340,
+  "Minor": 1358512,
+  "Major": 491321,
+  "Grand": 98280
+ },
+ "jackpotRoundOneIn": {
+  "Mini": 13.974580238546086,
+  "Minor": 29.44397988387294,
+  "Major": 81.41316980141292,
+  "Grand": 407.000407000407
+ },
+ "fullScreenCount": 77916,
+ "fullScreenOneIn": 513.373376456697,
+ "fullScreenRateOfHs": 0.0019479,
+ "hsAvgFinalK": 10.73836605,
+ "hsAvgRespins": 7.701073675,
+ "hsKHist": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  182965,
+  415471,
+  1973182,
+  5274570,
+  9190423,
+  10623996,
+  7898366,
+  3528903,
+  834208,
+  77916
+ ],
+ "startKHist": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+ ]
+}
